@@ -1,2 +1,4 @@
-# stepik_auto_tests_course
+﻿# stepik_auto_tests_course
 дз по степику (автоматизация с пайтон)
+
+попытка номер 3765385
